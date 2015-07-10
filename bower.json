@@ -1,0 +1,21 @@
+{
+  "name": "my-todo",
+  "version": "0.0.0",
+  "authors": [
+    "Abu Ali Muhammad Sharjeel <sheryever@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/assets",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angularjs": "~1.4.2",
+    "bootstrap": "~3.3.5"
+  }
+}
