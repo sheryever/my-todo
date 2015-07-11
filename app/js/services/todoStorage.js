@@ -6,6 +6,7 @@
 todo.factory('todoStorage', function(){
   var STORAGE_ID = 'my-todo';
 
+
   return {
     get : function(){
       return JSON.parse(localStorage.getItem(STORAGE_ID) || '[]');
