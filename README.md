@@ -11,5 +11,7 @@ To run the example.
 1, Install nodejs from http://nodejs.org/download
 
 2, npm install
+
 3, bower install
+
 4, npm start
