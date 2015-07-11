@@ -1,9 +1,9 @@
 var app = require('app');
-var BrowerWindow = require('browser-window');
+var BrowserWindow = require('browser-window');
 
 app.on('ready', function(){
 
-  var browerWindow = new BrowerWindow({
+  var browerWindow = new BrowserWindow({
     width: 800,
     height: 600
   });
