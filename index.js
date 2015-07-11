@@ -4,7 +4,7 @@ var BrowserWindow = require('browser-window');
 app.on('ready', function(){
 
   var browerWindow = new BrowserWindow({
-    width: 800,
+    width: 610,
     height: 600
   });
 
